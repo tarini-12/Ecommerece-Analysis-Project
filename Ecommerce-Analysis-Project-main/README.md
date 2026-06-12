@@ -1,6 +1,6 @@
 ## Toy Factory E-commerce Analytics ##
 ### Introduction ###
-Toy Factory is a fictional toy company, running an online shop. The objective was to act as an eCommerce Database Analyst to help
+Maven Fuzzy Factory is a fictional toy company, running an online shop. The objective was to act as an eCommerce Database Analyst to help
 stakeholders (CEO, product manager, marketing manager...) understand business health and provide actionable recommendations.
 
 ### The Goal ###
